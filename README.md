@@ -14,6 +14,7 @@
     - En la vista Project Files (en la extrema izquierda superior), expanda la carpeta proyecto y elimine la carpeta .github y el archivo README.md
     - En la vista Project (en la extrema izquierda superior), expanda el proyecto y edite el archivo settings.gradle para que el nombre del proyecto sea Programa 1 POO2
     - Edite el archivo .gitignore dentro de la carpeta .idea para que la ruta al DataSources sea la correcta (cambiar la parte donde dice Practica 08 Lab POO2 por Programa 1 POO2)
+    - De clik en el icono de Gradle que aparece para que se sincronicen los cambios
 
 3.	Habilite la integración con Git, combinando lo que tiene el repositorio remoto con el código que copió de la Práctica 8:
     - Dé click en la opción Version Control Integration del menu VCS, seleccione Git y de click en OK
