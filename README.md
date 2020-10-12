@@ -11,7 +11,7 @@
     - Dé click en la opción Open or Import para abrir el nuevo proyecto
     - Seleccione en el cuadro de diálogo la ruta del proyecto que acaba de copiar en los pasos anteriores
     - Si al abrirlo le marca el error Invalid VCS Root Mapping , dé click en Configure, seleccione el directorio de la lista que aparece, dé click en el - que está a la derecha para eliminarlo, y dé click en OK
-    - En la vista Project Files (en la extrema izquierda superior), expanda el proyecto y elimine la carpeta .github y el archivo README.md
+    - En la vista Project Files (en la extrema izquierda superior), expanda la carpeta proyecto y elimine la carpeta .github y el archivo README.md
     - En la vista Project (en la extrema izquierda superior), expanda el proyecto y edite el archivo settings.gradle para que el nombre del proyecto sea Programa 1 POO2
     - Edite el archivo .gitignore dentro de la carpeta .idea para que la ruta al DataSources sea la correcta (cambiar la parte donde dice Practica 08 Lab POO2 por Programa 1 POO2)
 
